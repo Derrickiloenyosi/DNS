@@ -1,10 +1,12 @@
 # DNS
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+  ![image](https://github.com/Derrickiloenyosi/DNS/assets/147453577/b32a4261-aeb6-4462-b502-31178ca3b727)
+
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Creating A-Records and CNAME Records</h1>
+This will showcase a breakdown of creating A-Records and CNAME. Through screenshots and brief summary, I will show steps to creating an A-record using 2 clients "DC-1" and "Client 1".
+Then I will change the destination of the A-record to 8.8.8.8. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -23,16 +25,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
+<p>![image](https://github.com/Derrickiloenyosi/DNS/assets/147453577/d1b41b9d-328f-4574-98a9-8759695f5295)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
