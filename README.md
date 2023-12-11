@@ -1,6 +1,7 @@
 # DNS
 <p align="center">
-  
+  ![image](https://github.com/Derrickiloenyosi/DNS/assets/147453577/3aeca368-0a60-46e5-b924-31efc508127f)
+
 
 </p>
 
