@@ -1,6 +1,6 @@
 # DNS
 <p align="center">
-  ![image](https://github.com/Derrickiloenyosi/DNS/assets/147453577/b32a4261-aeb6-4462-b502-31178ca3b727)
+  
 
 </p>
 
@@ -29,8 +29,8 @@ Then I will change the destination of the A-record to 8.8.8.8. <br />
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>![image](https://github.com/Derrickiloenyosi/DNS/assets/147453577/d1b41b9d-328f-4574-98a9-8759695f5295)
 
+  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
