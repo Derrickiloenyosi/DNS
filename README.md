@@ -33,7 +33,7 @@ Then I will change the destination of the A-record to 8.8.8.8. <br />
 <a href="https://imgur.com/QjRtke2"><img src="https://i.imgur.com/QjRtke2.png" title="source: imgur.com" height="80%" width="80%" /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The image above is where one goes to create an A-Record. To get here, you go to Server Manager -> Tools -> DNS -> Forward Lookup Zones -> mydomain.com -> then right click for option box to surface -> then select New Host (A records). Once a record name is created, you can link it to an ip address. In this lab the A-Record name was "mainframe" and I linked it to the private ip address of one of the virtual machines I created named "DC-1". 
 </p>
 <br />
 
