@@ -39,23 +39,7 @@ The image above is where one goes to create an A-Record. To get here, you go to 
 
 
 
-<p>
-<a href="https://imgur.com/UScqxuu"><img src="https://i.imgur.com/UScqxuu.png" title="source: imgur.com" height="80%" width="80%" /></a>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-
-
-<p>
-<a href="https://imgur.com/SUOxeWY"><img src="https://i.imgur.com/SUOxeWY.png" title="source: imgur.com" height="80%" width="80%" /></a>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 
 
