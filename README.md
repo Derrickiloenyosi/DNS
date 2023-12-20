@@ -56,7 +56,7 @@ In the image above, you will see that from "Client-1" also seen as jane, I typed
 <a href="https://imgur.com/Tt7cV6I"><img src="https://i.imgur.com/Tt7cV6I.png" title="source: imgur.com" height="80%" width="80%"/></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now going back to DNS manager, the image above shows the new IP address of 8.8.8.8. that the mainframe will be assigned to. 
 
 
 
