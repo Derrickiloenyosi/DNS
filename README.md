@@ -49,7 +49,7 @@ The image above is where one goes to create an A-Record. To get here, you go to 
 <a href="https://imgur.com/q9QV8kA"><img src="https://i.imgur.com/q9QV8kA.png" title="source: imgur.com" height="80%" width="80%"/></a>
 </p>
 <p>
-In the image above, you will see that from "Client-1" also seen as jane, I typed the command ping mainframe and the private ip address of DC-1 shows up(10.0.0.4).
+In the image above, you will see that from "Client-1" also seen as jane, I typed the command ping mainframe and the private ip address of DC-1 shows up(10.0.0.4). This is because in the previous image, mainframe was linked to the private ip address of 10.0.0.4. 
 
 
 
