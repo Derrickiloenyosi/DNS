@@ -81,7 +81,7 @@ Now that we have typed in the flush command, the mainframe now shows that it is 
 </p>
 <p>
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The above image shows the process of changing the CNAME from the DNS Manager. The CNAME is being changed to search and will be linked to the website "www.google.com".
 
 
 <a href="https://imgur.com/ILCWIxC"><img src="https://i.imgur.com/ILCWIxC.png" title="source: imgur.com" /></a>
