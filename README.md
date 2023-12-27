@@ -70,15 +70,10 @@ The image above shows that despite linking mainframe to the new IP address of 8.
 <a href="https://imgur.com/77ZGXVR"><img src="https://i.imgur.com/77ZGXVR.png" title="source: imgur.com" height="80%" width="80%"/></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that we have typed in the flush command, the mainframe now shows that it is linked to 8.8.8.8.
 
 
 
-<a href="https://imgur.com/Qlgotj3"><img src="https://i.imgur.com/Qlgotj3.png" title="source: imgur.com" height="80%" width="80%" /></a>
-</p>
-<p>
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
 
